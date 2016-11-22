@@ -1,0 +1,16 @@
+{
+  "name": "tokbox",
+  "version": "1.0.0",
+  "description": "prueba rest",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davash07",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "opentok": "^2.4.0"
+  }
+}
